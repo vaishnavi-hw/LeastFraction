@@ -15,8 +15,7 @@ body{
     background: rgb(167, 250, 167);
     box-shadow: 5px 5px 5px grey;
     padding: 20px;
-    width: 50vw;
-    height: 50vh;
+    
 }
 .main{
    display: flex;
